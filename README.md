@@ -1,6 +1,6 @@
-<div style="height: 50; width: 400">
-    <img src="https://www.getsetgoweb.com/assets/images/backend-devlopement/back-end-development.png">
-</div>
+
+<img height="500" width="700" src="https://www.getsetgoweb.com/assets/images/backend-devlopement/back-end-development.png">
+
 <h1 align="center">Hi 👋, I'm Md. Razun Mia</h1>
 <h3 align="center">A passionate NodeJs backend and Flutter cross-platform mobile application developer from Bangladesh.</h3>
 <!-- <img src="https://drive.google.com/drive/folders/1wZsApQuBWBOPt2qr_t2KKr4QnQXYkdTM"> -->
