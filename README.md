@@ -3,9 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Md. Razun Mia</h1>
 <h3 align="center">A passionate NodeJs backend and Flutter cross-platform mobile application developer from Bangladesh.</h3>
-<!-- <img src="https://drive.google.com/drive/folders/1wZsApQuBWBOPt2qr_t2KKr4QnQXYkdTM"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrazunmia&label=Profile%20views&color=0e75b6&style=flat" alt="mdrazunmia" /> </p>
 
+<img height="400" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47ezggochh26hvgkt6pdvt835figzqk7vo1r7xgylp&rid=200.webp&ct=g">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrazunmia&label=Profile%20views&color=0e75b6&style=flat" alt="mdrazunmia" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrazunmia" alt="mdrazunmia" /></a> </p>
 
 - 🔭 I’m currently working on [task-management](https://github.com/mdRazunMia/task-management-final)
