@@ -2,7 +2,7 @@
 <img height="500" width="700" src="https://www.getsetgoweb.com/assets/images/backend-devlopement/back-end-development.png">
 
 <h1 align="center">Hi 👋, I'm Md. Razun Mia</h1>
-<h3 align="center">A passionate NodeJs backend and Flutter cross-platform mobile application developer from Bangladesh.</h3>
+<h3 align="center">A passionate NodeJs< Laravel backend, Reactjs forntend, and Flutter cross-platform mobile application developer from Bangladesh.</h3>
 
 <img height="400" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47ezggochh26hvgkt6pdvt835figzqk7vo1r7xgylp&rid=200.webp&ct=g">
 
