@@ -2,7 +2,7 @@
 <img height="500" width="700" src="https://www.getsetgoweb.com/assets/images/backend-devlopement/back-end-development.png">
 
 <h1 align="center">Hi 👋, I'm Md. Razun Mia</h1>
-<h3 align="center">I am a developer who is passionate about NodeJs, Laravel for the backend, Reactjs for the frontend, and Flutter for cross-platform mobile application development.</h3>
+<h3 align="center">I am a developer who is passionate about Laravel, NodeJs for the backend, Vue JS, Reactjs for the front end, and Flutter for cross-platform mobile application development.</h3>
 
 <img height="400" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47ezggochh26hvgkt6pdvt835figzqk7vo1r7xgylp&rid=200.webp&ct=g">
 
@@ -13,15 +13,15 @@
 
 - 🔭 I have worked on [task-management](https://github.com/mdRazunMia/task-management-final) in my first company.
 
-- 🌱 I’m currently learning **Advance concepts of Javascript, PHP, SQL, Laravel, Reactjs**
+- 🌱 I’m currently learning **Advanced concepts of Javascript, PHP, SQL, Laravel, React Js, Vue JS**
 
 - 👯 I’m looking to collaborate on [task-management flutter app](flexiNote-task-management Private)
 
-- 💬 Ask me about **Javascript, Nodejs, NextJs, Flutter, PHP, Laravel 9**
+- 💬 Ask me about **PHP, Javascript, Laravel, Node Js, Express JS, Vue JS, Next Js, Flutter**
 
 - 📫 How to reach me **razun.neub.cse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing](https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing]([https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing](https://drive.google.com/file/d/1jbZ6fvR6HU7mD_KYYroP_bxkR8JJ-Ch9/view?usp=sharing))
 
 - ⚡ Fun fact **Everybody thinks I am a boring person. But, In reality, I am a very funny person.**
 
