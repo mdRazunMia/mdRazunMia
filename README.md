@@ -21,7 +21,11 @@
 
 - 📫 How to reach me **razun.neub.cse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing]([https://drive.google.com/file/d/1EsGoOD5znV5x5R3uesPrt1cw_AAm6hZL/view?usp=sharing](https://drive.google.com/file/d/1jbZ6fvR6HU7mD_KYYroP_bxkR8JJ-Ch9/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1jbZ6fvR6HU7mD_KYYroP_bxkR8JJ-Ch9/view?usp=sharing)
+  
+- Visit my LinkedIn profile: [LinkedIn Prolile](https://www.linkedin.com/in/md-razun-mia/)
+
+- Visit my Gitlab profile: [Gitlab Profile](https://gitlab.com/MdRazunMia)
 
 - ⚡ Fun fact **Everybody thinks I am a boring person. But, In reality, I am a very funny person.**
 
